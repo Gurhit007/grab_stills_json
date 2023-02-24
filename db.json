@@ -1,0 +1,10 @@
+{
+    "users": [
+      {
+        "uname": "Gurhit",
+        "uemail": "gurhit@123",
+        "upass": "12345",
+        "id": 1
+      }
+    ]
+  }
